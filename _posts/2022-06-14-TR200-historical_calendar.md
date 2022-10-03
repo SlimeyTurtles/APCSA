@@ -2,8 +2,9 @@
 toc: true
 layout: post
 description: 
-categories: [tri2]
 title: Tri2 Overview - 2021-2022 Winter review 
+type: plan
+week: 13
 ---
 
 # Time Box Tri 2

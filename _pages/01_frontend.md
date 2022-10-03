@@ -1,7 +1,9 @@
 ---
 layout: default
-permalink: /menu/frontend
+permalink: /frontend/overview
 title: Frontend
+type: pbl
+week: 2
 ---
 
 {% include nav_frontend.html %}
